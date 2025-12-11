@@ -1,0 +1,5 @@
+{
+  "name": "Loan Management System",
+  "description": "A full-stack web application for managing loan applications, featuring user and admin dashboards, a loan calculator, and authentication.",
+  "requestFramePermissions": []
+}
